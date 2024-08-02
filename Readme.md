@@ -1,7 +1,7 @@
 # React Notes with Code :- 
 
 
-## 1. Hooks Code Written Inside [App.jsx](#Basic-Hooks-Code) in #01.ReactHooks Folder.
+## 1. UnderStanding Hooks - Code Provided Below [App.jsx](#Basic-Hooks-Code) and Can Check #App.jsx in #01.ReactHooks Folder.
 
 ---
 ### Basic Hooks Code 
