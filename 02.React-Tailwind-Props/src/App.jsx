@@ -9,8 +9,9 @@ function App() {
   return (
     <>
       <h1 className="bg-gray-400 text-black p-4 rounded" >Welcome</h1>
-      <Card username="Asus"/>
-      <Card username ="Macbook"/>
+      <Card username="Asus" btnText="Click Here"/>
+      <Card username ="Macbook" btnText="Visit Here"/>
+      
     </>
   )
 }
