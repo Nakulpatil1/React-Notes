@@ -1,7 +1,7 @@
 # React Notes with Code :- 
 
 
-### 1. UnderStanding Hooks - Code Provided Below [App.jsx](#Basic-Hooks-Code) and Can Check 01.ReactHooks Folder.
+### 1. UnderStanding Hooks - [Code Provided Below](#Basic-Hooks-Code) and Can Check 01.ReactHooks Folder for more detail.
 
 ---
 ### Basic Hooks Code 
