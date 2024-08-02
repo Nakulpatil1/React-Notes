@@ -1,11 +1,35 @@
 Steps To DO to Create Vite React :-
 
-1. In Terminal choose the directory to create the React app on like inside documnent.
-   You can do on previous directory by entering (cd...) In terminal.
-Then to react new React app enter (npm create vite@latest).
+1. In Terminal choose the directory to create the React app on like inside documnent path.
+   Then to Create new React app enter (npm create vite@latest) in Terminal.
 
-2. After this vite React will be created , then after its creation enter (dir) in that file directory to check if 
-   node modules folder is present if not then in same directory enter (npm i), it will automatically download all the requirements.
+2. After this vite React will be created on the chosen Directory , then to check file directory is created enter (dir) in terminal.
 
-3. To run the project select it my using (cd .) your file name like example cd .\Reactapp\.
-   then after you reached the directory enter (npm run dev). to go live the project.
+3. Check Node modules folder is present, if not then in same directory enter (npm i), it will automatically download all the requirements.
+
+3. Then To run the project select it my using (cd) your folder name like example cd .\Reactapp\.
+   Then after you reached the directory enter (npm run dev). to go live the project.
+
+Note :-
+You can move on to previous directory by entering (cd..) In terminal.
+You can Choose file Directory by entering (cd) your Folder name In terminal. {Shortcut Key type (cd) then TAB to choose Folder.}
+ 
+
+
+Steps to Add Tailwind in Vite React :-
+
+1. After React Vite is Created to Add Tailwind Css, 
+   (npm install -D tailwindcss postcss autoprefixer)
+   
+2. (npx tailwindcss init -p)
+
+3. Step 1 will Download Tailwind and Step 2 will Create "tailwind.config.js" file ,inside that there is a "Content" fn inside that write
+   "./index.html",
+   "./src/**/*.{js,ts,jsx,tsx}",
+
+4. Inside "index.css" file , at the top write this 
+   @tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+
+5. All Set Your Tailwind CSS is now Installed to be used in Vite React App.

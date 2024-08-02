@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1 className="bg-green-400 text-black p-4 rounded" >Hello</h1>
+      <h1 className="bg-gray-400 text-black p-4 rounded" >Welcome</h1>
       <Card username="Asus"/>
       <Card username ="Macbook"/>
     </>
