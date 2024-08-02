@@ -1,9 +1,10 @@
 # React Notes with Code :- 
 
-## Hooks Code Written Inside [App.jsx](#Basic-Hooks-Code) in #01.ReactHooks Folder.
+
+## 1. Hooks Code Written Inside [App.jsx](#Basic-Hooks-Code) in #01.ReactHooks Folder.
 
 ---
-## Basic Hooks Code 
+### Basic Hooks Code 
 
 ```javascript
 import { useState } from "react"               //Tells which Hook is Imported to be utilized. Example useEffect can be imported etc..
