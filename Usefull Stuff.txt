@@ -1,0 +1,11 @@
+Steps To DO to Create Vite React :-
+
+1. In Terminal choose the directory to create the React app on like inside documnent.
+   You can do on previous directory by entering (cd...) In terminal.
+Then to react new React app enter (npm create vite@latest).
+
+2. After this vite React will be created , then after its creation enter (dir) in that file directory to check if 
+   node modules folder is present if not then in same directory enter (npm i), it will automatically download all the requirements.
+
+3. To run the project select it my using (cd .) your file name like example cd .\Reactapp\.
+   then after you reached the directory enter (npm run dev). to go live the project.
