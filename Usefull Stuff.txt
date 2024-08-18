@@ -35,3 +35,9 @@ Steps to Add Tailwind in Vite React :-
    @tailwind utilities;
 
 4. All Set Your Tailwind CSS is now Installed to be used in Vite React App.
+
+
+
+Steps to Add React Router DOM in Vite React :-
+
+1. npm install react-router-dom
