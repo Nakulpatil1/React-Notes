@@ -9,9 +9,9 @@ Example - when some asks for a data from a child class or a sub-Child class ,
 
 It is used by applying a hook called "const value = useContext(SomeContext)"
 
+```javascript
 import { useContext } from 'react';
-
-
 function MyComponent() {
   const theme = useContext(ThemeContext);
   // ...
+```
